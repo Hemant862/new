@@ -9,6 +9,3 @@ def lili(request):
 
 def greet(request):
     return HttpResponse("<h2>Good morning...</h2>")
-    
-
-# Create your views here.
