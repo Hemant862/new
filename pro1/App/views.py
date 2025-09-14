@@ -7,4 +7,7 @@ def show(request):
 def lili(request):
     return HttpResponse("<h1>Hello Lili 🌼🌼</h1>")
 
+
+    
+
 # Create your views here.
