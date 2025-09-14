@@ -8,7 +8,7 @@ def lili(request):
     return HttpResponse("<h1>Hello Lili 🌼🌼</h1>")
 
 def greet(request):
-    return HttpResponse("<h2>Good mornin</h2>")
+    return HttpResponse("<h2>Good morning...</h2>")
     
 
 # Create your views here.
